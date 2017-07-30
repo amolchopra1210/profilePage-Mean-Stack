@@ -1,4 +1,4 @@
 module.exports = {
-    database : 'mongodb://localhost:27017/meanAuth',
+    database : 'mongodb://amolchopra:mytimeisnow@ds127993.mlab.com:27993/profiledatabase',
     secret : 'secretkey'
 }
